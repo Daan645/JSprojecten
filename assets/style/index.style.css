@@ -1,0 +1,14 @@
+header{
+text-align: center;
+    background-color: black;
+    color: white;
+}
+
+li{
+    list-style:  none;
+    display: inline-block;
+}
+
+a{
+    color: white;
+}
